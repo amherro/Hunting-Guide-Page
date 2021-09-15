@@ -2,7 +2,7 @@
     margin: 0px;
 }
 html {
-    background-image: url(/dist/images/bgimage.jpg);
+    background-image: url(images/bgimage.jpg);
 }
 header {
     display: flex;
